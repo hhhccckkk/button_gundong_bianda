@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+     >
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    <Button
+        android:background="@drawable/home_game_study1"
+        android:layout_marginTop="5dp"
+        android:id="@+id/bt1"
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         />
+
+    <Button
+        android:background="@drawable/home_game_study1"
+         android:layout_marginTop="5dp"
+        android:id="@+id/bt2"
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         />
+
+    <Button
+        android:background="@drawable/home_game_study1"
+         android:layout_marginTop="5dp"
+        android:id="@+id/bt3"
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+      />
+
+    <Button
+        android:background="@drawable/home_game_study1"
+         android:layout_marginTop="5dp"
+        android:id="@+id/bt4"
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <Button
+        android:background="@drawable/home_game_study1"
+         android:layout_marginTop="5dp"
+        android:id="@+id/bt5"
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         />
+</LinearLayout>
+</LinearLayout>
